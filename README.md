@@ -23,7 +23,10 @@ The purpose of this project is to train a One-Short Learning Siasmese Network to
 
 #### Data:-
 The data being fingerprints of a particular person is private to them. So, I have not included a dataset.
-But the folder structure defines how the data needs to recide for the working. The data/files in the folders are only placeholders.
+However, there is a sample image(thumb_edited.jpg you will find it in `images/p1/`) which can be used to understand what kind of image is expected.
+The fingerprints should be clear and the image should only contain the finger, not any more details.
+
+The folder structure defines how the data needs to recide for the working. The data/files in the folders are only placeholders.
 
 The `images` folder should contain all the individual person's fingerprints separated in folders (`p1/, p2/, p3/`).
 
